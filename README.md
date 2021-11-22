@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anippuleti
 - 👀 I’m interested in Programming, Computer Architecture
 - 🌱 I’m a continuous learner.
-- 💞️ I’m looking to collaborate on building open-source tools using C++.
+- 💞️ I’m looking to collaborate on building open-source tools using C++ programming language.
 - 📫 How to reach me nippuleti.abhinav@gmail.com
 
 <!---
